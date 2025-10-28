@@ -23,9 +23,9 @@ When users ask about XBuilder, spx, or XGo-related topics:
 
 ## Reference Files
 
-- `about_spx.md`: Core concepts about the spx game engine
-- `about_xbuilder.md`: Information about the XBuilder platform
-- `about_xgo.md`: XGo language features and simplifications
-- `ai_interaction.md`: AI interaction capabilities in games
-- `spx_apis.md`: Complete API reference for spx game engine
-- `xgo_syntax.md`: XGo language syntax reference
+- `reference/about_spx.md`: Core concepts about the spx game engine
+- `reference/about_xbuilder.md`: Information about the XBuilder platform
+- `reference/about_xgo.md`: XGo language features and simplifications
+- `reference/ai_interaction.md`: AI interaction capabilities in games
+- `reference/spx_apis.md`: Complete API reference for spx game engine
+- `reference/xgo_syntax.md`: XGo language syntax reference
