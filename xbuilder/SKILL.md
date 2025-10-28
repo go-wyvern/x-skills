@@ -16,16 +16,16 @@ This skill provides comprehensive knowledge about the XBuilder platform and its 
 
 When users ask about XBuilder, spx, or XGo-related topics:
 
-1. Reference the appropriate knowledge files in the `reference/` directory
+1. Reference the appropriate knowledge files
 2. Provide clear, educational explanations suitable for beginners (around age 10)
 3. Follow the coding conventions and guidelines specified in the knowledge base
 4. Use examples from the knowledge base when helpful
 
 ## Reference Files
 
-- `reference/about_spx.md`: Core concepts about the spx game engine
-- `reference/about_xbuilder.md`: Information about the XBuilder platform
-- `reference/about_xgo.md`: XGo language features and simplifications
-- `reference/ai_interaction.md`: AI interaction capabilities in games
-- `reference/spx_apis.md`: Complete API reference for spx game engine
-- `reference/xgo_syntax.md`: XGo language syntax reference
+- `about_spx.md`: Core concepts about the spx game engine
+- `about_xbuilder.md`: Information about the XBuilder platform
+- `about_xgo.md`: XGo language features and simplifications
+- `ai_interaction.md`: AI interaction capabilities in games
+- `spx_apis.md`: Complete API reference for spx game engine
+- `xgo_syntax.md`: XGo language syntax reference
