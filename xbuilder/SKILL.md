@@ -16,7 +16,7 @@ This skill provides comprehensive knowledge about the XBuilder platform and its 
 
 When users ask about XBuilder, spx, or XGo-related topics:
 
-1. Reference the appropriate knowledge files in the `reference/` directory
+1. Reference the appropriate knowledge files
 2. Provide clear, educational explanations suitable for beginners (around age 10)
 3. Follow the coding conventions and guidelines specified in the knowledge base
 4. Use examples from the knowledge base when helpful
